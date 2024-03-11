@@ -21,4 +21,4 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ooqeks9j6fvhf0edbves98tou&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ooqeks9j6fvhf0edbves98tou&redirect=true)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irvinggarcia250&show_icons=true&locale=en" alt="irvinggarcia250" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irvinggarcia250&show_icons=true&locale=en&layout=compact" alt="irvinggarcia250" /
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irvinggarcia250&show_icons=true&locale=en" alt="irvinggarcia250" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irvinggarcia250&show_icons=true&locale=en&layout=compact" alt="irvinggarcia250" />
