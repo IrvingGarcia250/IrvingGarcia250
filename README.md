@@ -22,3 +22,4 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ooqeks9j6fvhf0edbves98tou&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irvinggarcia250&show_icons=true&locale=en" alt="irvinggarcia250" /></p>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mjiq9pzc1vwlcooigvdbeaipq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=mjiq9pzc1vwlcooigvdbeaipq&redirect=true)
