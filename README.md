@@ -20,7 +20,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ooqeks9j6fvhf0edbves98tou&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ooqeks9j6fvhf0edbves98tou&redirect=true)
- 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ooqeks9j6fvhf0edbves98tou&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ooqeks9j6fvhf0edbves98tou&redirect=true)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irvinggarcia250&show_icons=true&locale=en" alt="irvinggarcia250" /></p>
